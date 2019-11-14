@@ -19,6 +19,7 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "@agney/gatsby-theme-wedding": "^1.1.2",
     "prettier": "^1.19.1"
   },
   "keywords": [
