@@ -1,7 +1,7 @@
 {
     "profiles": [
         {
-            "name": "Samantha",
+            "name": "Louise",
             "description": "I live my whole life setting up situations that will eventually lead to the phrase, “And then laughter and hilarity ensued…” Hoping this one will work out too.",
             "links": {
                 "instagram": "https://instagram.com/samantha/",
@@ -9,7 +9,7 @@
             }
         },
         {
-            "name": "Nathaniel",
+            "name": "Chris",
             "description": "According to my 9th grade report card I’m a “hard working conscientious student” who is also “easily distracted in class”. What can I say? I do my homework but I also tend to daydream. Pretty much sums up who I still am today.",
             "links": {
                 "instagram": "https://instagram.com/nathaniel",
@@ -19,11 +19,11 @@
     ],
     "events": [
         {
-            "title": "26-December-2020",
+            "title": "22-September-2020",
             "occasion": {
-                "name": "Lunch & Celebrations",
+                "name": "Ceremony & Reception",
                 "place": {
-                    "name": "Casa Garden, Sacremento",
+                    "name": "Orange Tree House",
                     "map": "https://maps.google.com/maps?q=Casa%20Garden%20%7C%20Restaurant%20%26%20Event%20Venue&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 },
                 "time": "12:30PM"
