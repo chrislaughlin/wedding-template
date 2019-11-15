@@ -9,10 +9,15 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `@agney/gatsby-theme-wedding`,
+      resolve: "gatsby-source-filesystem",
       options: {
-        contentPath: "occasion", // Tell the theme where your data is.
-        basePath: "/" // Tell the theme which URL to render the theme at.
+        path: 'data'
+      }
+    },
+    {
+      resolve: "gatsby-transformer-json",
+      options: {
+        typeName: "Event"
       }
     }
     // this (optional) plugin enables Progressive Web App + Offline functionality
